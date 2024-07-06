@@ -1,0 +1,20 @@
+.header {
+    font-weight: 600;
+    font-size: 20px;
+    color: yellow;
+}
+.notification {
+    color: #9aea58;
+    margin-left: 10px;
+}
+.show-message {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    /* background-color: red; */
+}
+
+.btn {
+    cursor: pointer;
+}
