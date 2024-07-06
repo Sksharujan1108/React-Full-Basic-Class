@@ -21,7 +21,7 @@ class NewStateComponent extends PureComponent {
                 {Subscribe ?
                    (
                       <div className = 'show-message '>
-                        <h2> Thank You For Subscribing </h2>
+                        <h2> Thank You For Your Subscribing </h2>
                         <IoNotificationsOffOutline 
                            className="notification" 
                            size={25} 
